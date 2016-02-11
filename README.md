@@ -3,6 +3,7 @@ heroku-static-site
 This change is from next branch
 This is commit 2
 This is commit 3
+This is commit 4
 A simple ruby + rack application for serving a basic static website, suitable for deploying to [Heroku](http://heroku.com).
 Their free 1-dyno plan covers 80% of my projects and Just Works&trade;
 
